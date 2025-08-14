@@ -1,8 +1,5 @@
-<div align="center">
+# ✨Crypto Wallet – Ethereum Wallet Web App
 
-# CryptWallet – Ethereum Wallet Web App
-
-</div>
 
 CryptWallet is a modern Ethereum wallet web application built with React, Ethers.js, and the Sepolia testnet. It allows users to connect their MetaMask wallet, view their ETH balance, see live ETH prices, and track transaction history — all in a sleek and responsive UI.
 
@@ -37,7 +34,8 @@ CryptWallet is a modern Ethereum wallet web application built with React, Ethers
 
 
 
-**APIs Used**
-    ** CoinGecko for live Ethereum prices **
-    ** Etherscan (Sepolia) for transaction history **
-    ** Metamask (Ethereum Provider) for wallet connection and signin **
+#   **APIs Used**
+#   ** CoinGecko for live Ethereum prices **
+#   ** Etherscan (Sepolia) for transaction history **
+#   ** Metamask (Ethereum Provider) for wallet connection and signin **
+
