@@ -27,7 +27,7 @@ CryptWallet is a modern Ethereum wallet web application built with React, Ethers
 | **[Ethers.js]** | Ethereum blockchain interaction |
 | **[TailwindCSS]** | Utility-first styling |
 | **[Framer Motion]** | Smooth animations |
-| **[Web3Modal] | Wallet wallet support |
+| **[Web3Model]** | Wallet wallet support |
 | **[CoinGecko API]** | ETH price data |
 | **[Etherscan API]** | Transaction history data |
 | **[Vercel]** | Hosting and Analytics |
@@ -38,5 +38,6 @@ CryptWallet is a modern Ethereum wallet web application built with React, Ethers
 #   ** CoinGecko for live Ethereum prices **
 #   ** Etherscan (Sepolia) for transaction history **
 #   ** Metamask (Ethereum Provider) for wallet connection and signin **
+
 
 
